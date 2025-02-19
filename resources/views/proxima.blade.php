@@ -6,8 +6,10 @@
     <title>Document</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"  rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <div class="alinha-tela">
 <div class="card" style=" display: flex; width: 18rem; aling-content:center; justify-content:center;">
   <img src="https://i.pinimg.com/originals/72/4c/b7/724cb7b18dd9a1401ccaf6f8f9dcf7fc.jpg" class="card-img-top" alt="..." style="max-height:300px; max-width:300px;">
   <div class="card-body">
@@ -23,6 +25,7 @@
     <a href="#" class="card-link">Card link</a>
     <a href="#" class="card-link">Another link</a>
   </div>
+</div>
 </div>
 </body>
 </html>
